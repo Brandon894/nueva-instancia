@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\instancias\instancias\bin\Debug\instancias.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\instancias\instancias\bin\Debug\instancias.exe
+c:\users\usuario\documents\visual studio 2015\Projects\instancias\instancias\bin\Debug\instancias.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\instancias\instancias\obj\Debug\instancias.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\instancias\instancias\obj\Debug\instancias.exe
+c:\users\usuario\documents\visual studio 2015\Projects\instancias\instancias\obj\Debug\instancias.pdb
